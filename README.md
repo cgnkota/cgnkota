@@ -15,8 +15,8 @@
 <div align="center">
   
   <a href="https://github.com/CaganAgabey/Suggestions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=suggestions&border_radius=25&theme=dracula&hide_border=true"></a>
-  <a href="https://github.com/FilipePS/Traduzir-paginas-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=quick-31&border_radius=25&theme=dracula&hide_border=true"></a>
-  <a href="https://github.com/FilipePS/Traduzir-paginas-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=sex.db-beta&border_radius=25&theme=dracula&hide_border=true"></a>
+  <a href="https://github.com/CaganAgabey/quick-31"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=quick-31&border_radius=25&theme=dracula&hide_border=true"></a>
+  <a href="https://github.com/CaganAgabey/powerful.db-beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=powerful.db-beta&border_radius=25&theme=dracula&hide_border=true"></a>
 
 </div>
 
