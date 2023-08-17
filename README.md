@@ -4,9 +4,9 @@
 <br>
 <a href="https://discord.com/users/872970186544799765"><img src="https://lanyard-profile-readme.vercel.app/api/872970186544799765?borderRadius=25px&bg=282a36"></a>
 <br><br>
-<a href="https://www.instagram.com/caganagabey/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.montessoriivyleague.com%2Fwp-content%2Fuploads%2F2018%2F10%2Finstagram-logo-circle.png&f=1&nofb=1&ipt=87e13afd78897699646d6a27e78da711987b3816010fbe1a966e127add5db85e&ipo=images" alt="Instagram" width="40" height="40"/> </a>
-<a href="https://www.reddit.com/user/CaganAgabey" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.vectorico.com%2Fdownload%2Fsocial_media%2FReddit-Icon.png&f=1&nofb=1&ipt=6a31b19d5e3fee0fa9042c8c75d7bfd473a1500c5ada085d49dc0da662bd3194&ipo=images" alt="Reddit" width="40" height="40"/> </a> 
-<a href="https://t.me/CaganAgabey" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpnggrid.com%2Fwp-content%2Fuploads%2F2021%2F04%2Ftelegram-logo-circle-1024x1024.png&f=1&nofb=1&ipt=488504501223c52cec79926cb803bde1fa77f87fa4bdf480ef036780505bc9b5&ipo=images" alt="Telegram" width="40" height="40"/> </a> 
+<a href="https://www.instagram.com/caganagabey/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png" alt="Instagram" width="40" height="40"/> </a>
+<a href="https://www.reddit.com/user/CaganAgabey" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1024px-Reddit_Logo_Icon.svg.png" alt="Reddit" width="40" height="40"/> </a> 
+<a href="https://t.me/CaganAgabey" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40"/> </a> 
 </div>
 
 <br><br>
@@ -15,7 +15,7 @@
 <div align="center">
   
   <a href="https://github.com/CaganAgabey/Suggestions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=suggestions&border_radius=25&theme=dracula&hide_border=true"></a>
-  <a href="https://github.com/CaganAgabey/quick-31"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=quick-31&border_radius=25&theme=dracula&hide_border=true"></a>
+  <a href="https://github.com/CaganAgabey/t3kys-durum-izleyici"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=t3kys-durum-izleyici&border_radius=25&theme=dracula&hide_border=true"></a>
   <a href="https://github.com/CaganAgabey/powerful.db-beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=powerful.db-beta&border_radius=25&theme=dracula&hide_border=true"></a>
 
 </div>
@@ -24,7 +24,7 @@
 
 <h2>About me</h2>
 
-- 🧑‍💻 I'm currently a **self-taught and full-stack developer, mostly working on front-end**
+- 🧑‍💻 I'm currently a **full-stack developer, mostly working on front-end**
 
 - 🧑‍🎓 I'm currently a **high school student**
 
