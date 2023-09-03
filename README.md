@@ -36,7 +36,7 @@
 
 - 💬 "Writing code is simple, writing simple code isn't simple"
 
-- 🕺 ESFP-T
+- 🕺 ENTP-T
 
 <br><br>
 
