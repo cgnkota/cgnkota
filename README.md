@@ -4,9 +4,9 @@
 <br>
 <a href="https://discord.com/users/872970186544799765"><img src="https://lanyard-profile-readme.vercel.app/api/872970186544799765?borderRadius=25px&bg=282a36"></a>
 <br><br>
-<a href="https://www.instagram.com/caganagabey/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png" alt="Instagram" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/cgnkota/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png" alt="Instagram" width="40" height="40"/> </a>
 <a href="https://www.reddit.com/user/CaganAgabey" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1024px-Reddit_Logo_Icon.svg.png" alt="Reddit" width="40" height="40"/> </a> 
-<a href="https://t.me/CaganAgabey" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40"/> </a> 
+<a href="https://t.me/cgnkota" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40"/> </a> 
 </div>
 
 <br><br>
@@ -14,9 +14,9 @@
 <h2>Pins</h2>
 <div align="center">
   
-  <a href="https://github.com/CaganAgabey/Suggestions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=suggestions&border_radius=25&theme=dracula&hide_border=true"></a>
-  <a href="https://github.com/CaganAgabey/t3kys-durum-izleyici"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=t3kys-durum-izleyici&border_radius=25&theme=dracula&hide_border=true"></a>
-  <a href="https://github.com/CaganAgabey/powerful.db-beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaganAgabey&repo=powerful.db-beta&border_radius=25&theme=dracula&hide_border=true"></a>
+  <a href="https://github.com/cgnkota/Suggestions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cgnkota&repo=suggestions&border_radius=25&theme=dracula&hide_border=true"></a>
+  <a href="https://github.com/cgnkota/t3kys-durum-izleyici"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cgnkota&repo=t3kys-durum-izleyici&border_radius=25&theme=dracula&hide_border=true"></a>
+  <a href="https://github.com/cgnkota/powerful.db-beta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cgnkota&repo=powerful.db-beta&border_radius=25&theme=dracula&hide_border=true"></a>
 
 </div>
 
@@ -28,13 +28,11 @@
 
 - 🧑‍🎓 I'm currently a **high school student**
 
-- 🔭 I’m currently interested in **programming, meteorology, cartographing and my lessons**
+- 🔭 I’m currently interested in **programming, meteorology, mapping and photography**
 
-- 🌱 I’m currently learning **Machine Learning, Mobile Programming and Physical Robot Programming**
+- 🌱 I’m currently learning **Machine Learning, Mobile Programming and Arduino Programming**
 
 - ⚡ Fun fact **I started programming with Lua when I was 8 years old.**
-
-- 💬 "Writing code is simple, writing simple code isn't simple"
 
 - 🕺 ENTP-T
 
