@@ -1,5 +1,5 @@
-<h1>Hi 👋 this is CaganAgabey, a self-taught full-stack developer</h1>
-<h3 align="center">16 y.o Developer who always hungry for learning</h3>
+<h1>Hi 👋 this is Çağan, a self-taught full-stack developer</h1>
+<h3 align="center">16 y.o developer who always hungry for learning</h3>
 <div align="center">
 <br>
 <a href="https://discord.com/users/872970186544799765"><img src="https://lanyard-profile-readme.vercel.app/api/872970186544799765?borderRadius=25px&bg=282a36"></a>
